@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [The Budgeteer](https://github.com/ricardodcpina/the-budgeteer)
 
-- 📫 How to reach me **ricardodcpina@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>

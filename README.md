@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ricardo Pina</h1>
 <h3 align="center">A passionate backend/fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on [The Budgeteer](https://github.com/ricardodcpina/the-budgeteer)
+- I’m currently working on [The Budgeteer](https://github.com/ricardodcpina/the-budgeteer)
 
-<h3 align="left">Connect with me:</h3>
+---
+
+<h2 align="left">Connect with me</h2>
 
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
 <a href="mailto:ricardodcpina@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"></a>
+
+---
+
+<h2 align="left">Tech Stack</h2>
 
 <h3 align="left">Languages | Runtimes | Supersets</h3>
 

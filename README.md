@@ -35,9 +35,9 @@
 
 <h3 align="left">Databases | ODM | ORM</h3>
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prisma-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/postgressql-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/mongodb-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/prisma-dark.svg" width="50"></a>
 <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original-wordmark.svg" width="50"/></a>
 
 <h3 align="left">DevOps | Version Control</h3>

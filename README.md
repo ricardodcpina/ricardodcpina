@@ -49,17 +49,10 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricardodcpina&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ricardodcpina&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardodcpina&hide_progress=true&theme=tokyonight&card_width=320" />
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardodcpina&layout=compact&hide_progress=true&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
           

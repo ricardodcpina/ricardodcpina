@@ -7,7 +7,7 @@
 
 <h2 align="left">Connect with me</h2>
 
-<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
+<a href="https://www.linkedin.com/in/ricardodcpina/"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/linkedin.svg" width="50"></a>
 <a href="mailto:ricardodcpina@gmail.com"><img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" width="50"></a>
 
 ---

@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ricardo Pina</h1>
-<h3 align="center">A passionate backend/fullstack developer from Brazil</h3>
+<h1 align="center">Welcome, I'm Ricardo Pina</h1>
+<h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- I’m currently working on [The Budgeteer](https://github.com/ricardodcpina/the-budgeteer)
+- I’m currently working on [Vault Knox](https://github.com/ricardodcpina/vault-knox)
 
 ---
 
@@ -45,6 +45,11 @@
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/git.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/github-dark.svg" width="50"></a>
 <a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/docker-dark.svg" width="50"></a>
+
+<h3 align="left">UI/UX | AI</h3>
+
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/figma-dark.svg" width="50"></a>
+<a href="#"><img src="https://github.com/onemarc/tech-icons/blob/main/icons/chatgpt.svg" width="50"></a>
 
 ---
 

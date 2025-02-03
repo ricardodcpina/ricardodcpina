@@ -1,7 +1,8 @@
 <h1 align="center">Welcome, I'm Ricardo Pina</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- I’m currently working on [Vault Knox](https://github.com/ricardodcpina/vault-knox)
+- Working on project [Vault Knox](https://github.com/ricardodcpina/vault-knox)
+- Enrolled in CS50 Artificial Intelligence, CS50 Cybersecurity and AWS Cloud Pratictioner courses.
 
 ---
 

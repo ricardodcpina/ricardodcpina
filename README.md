@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
 - Working on project [Vault Knox](https://github.com/ricardodcpina/vault-knox)
-- Currently enrolled in and studying the **AWS Cloud Practitioner**, **CS50 Web Development** courses.
+- Currently enrolled in and studying the **AWS Cloud Practitioner** and **CS50 Web Development** courses.
 - Future plans include taking the **CS50 Aritifical Intelligence** and **CS50 Cybersecurity courses**.
 
 ---

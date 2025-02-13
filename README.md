@@ -1,5 +1,6 @@
 <h1 align="center">Welcome, I'm Ricardo Pina</h1>
-<h3 align="center">a full-stack software developer from Brazil</h3>
+<h3 align="center">Mainly a full-stack software developer 💻</h3>
+<h4 align="center">but also a ship pilot 🚢, a Yoga instructor 🕉️ and a Math teacher ➗</h4>
 
 - Working on project [Vault Knox](https://github.com/ricardodcpina/vault-knox)
 - Currently enrolled in and studying the **AWS Cloud Practitioner** and **CS50 Web Development** courses.

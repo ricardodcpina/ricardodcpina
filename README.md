@@ -30,8 +30,9 @@
 <h3 align="left">Frameworks | Libs</h3>
 
 <a href="#"><img src="https://github.com/user-attachments/assets/13ddafdf-8a2c-4d9d-9d96-3c9e1143b66e" width="50"></a>
-<a href="#"><img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50"></a>
+<a href="#"><img src="https://img.icons8.com/?size=100&id=9ESZMOeUioJS&format=png&color=000000" width="50"></a>
 <a href="#"><img src="https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=ffffff" width="50"></a>
+<a href="#"><img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" width="50"></a>
 <a href="#"><img src="https://img.icons8.com/?size=100&id=123603&format=png&color=000000" width="50"></a>
 <a href="#"><img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="50"></a>
 <a href="#"><img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" width="50"></a>
